@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\roble\\OneDrive\\Desktop\\SOLID\\Clases, Clases Abstractas e Interfaces\\Clases, Clases Abstractas e Interfaces.csproj": {}
+    "c:\\Users\\roble\\OneDrive\\Desktop\\SOLID\\Actividad Eduardo\\Clase\\Clases, Clases Abstractas e Interfaces.csproj": {}
   },
   "projects": {
-    "C:\\Users\\roble\\OneDrive\\Desktop\\SOLID\\Clases, Clases Abstractas e Interfaces\\Clases, Clases Abstractas e Interfaces.csproj": {
+    "c:\\Users\\roble\\OneDrive\\Desktop\\SOLID\\Actividad Eduardo\\Clase\\Clases, Clases Abstractas e Interfaces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\roble\\OneDrive\\Desktop\\SOLID\\Clases, Clases Abstractas e Interfaces\\Clases, Clases Abstractas e Interfaces.csproj",
+        "projectUniqueName": "c:\\Users\\roble\\OneDrive\\Desktop\\SOLID\\Actividad Eduardo\\Clase\\Clases, Clases Abstractas e Interfaces.csproj",
         "projectName": "Clases, Clases Abstractas e Interfaces",
-        "projectPath": "C:\\Users\\roble\\OneDrive\\Desktop\\SOLID\\Clases, Clases Abstractas e Interfaces\\Clases, Clases Abstractas e Interfaces.csproj",
+        "projectPath": "c:\\Users\\roble\\OneDrive\\Desktop\\SOLID\\Actividad Eduardo\\Clase\\Clases, Clases Abstractas e Interfaces.csproj",
         "packagesPath": "C:\\Users\\roble\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\roble\\OneDrive\\Desktop\\SOLID\\Clases, Clases Abstractas e Interfaces\\obj\\",
+        "outputPath": "c:\\Users\\roble\\OneDrive\\Desktop\\SOLID\\Actividad Eduardo\\Clase\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

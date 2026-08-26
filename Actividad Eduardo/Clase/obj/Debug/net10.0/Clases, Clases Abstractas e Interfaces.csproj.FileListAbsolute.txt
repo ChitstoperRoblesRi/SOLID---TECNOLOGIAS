@@ -1,0 +1,15 @@
+c:\Users\roble\OneDrive\Desktop\SOLID\Actividad Eduardo\Clase\bin\Debug\net10.0\Clases, Clases Abstractas e Interfaces.exe
+c:\Users\roble\OneDrive\Desktop\SOLID\Actividad Eduardo\Clase\bin\Debug\net10.0\Clases, Clases Abstractas e Interfaces.deps.json
+c:\Users\roble\OneDrive\Desktop\SOLID\Actividad Eduardo\Clase\bin\Debug\net10.0\Clases, Clases Abstractas e Interfaces.runtimeconfig.json
+c:\Users\roble\OneDrive\Desktop\SOLID\Actividad Eduardo\Clase\bin\Debug\net10.0\Clases, Clases Abstractas e Interfaces.dll
+c:\Users\roble\OneDrive\Desktop\SOLID\Actividad Eduardo\Clase\bin\Debug\net10.0\Clases, Clases Abstractas e Interfaces.pdb
+c:\Users\roble\OneDrive\Desktop\SOLID\Actividad Eduardo\Clase\obj\Debug\net10.0\Clases, Clases Abstractas e Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\roble\OneDrive\Desktop\SOLID\Actividad Eduardo\Clase\obj\Debug\net10.0\Clases, Clases Abstractas e Interfaces.AssemblyInfoInputs.cache
+c:\Users\roble\OneDrive\Desktop\SOLID\Actividad Eduardo\Clase\obj\Debug\net10.0\Clases, Clases Abstractas e Interfaces.AssemblyInfo.cs
+c:\Users\roble\OneDrive\Desktop\SOLID\Actividad Eduardo\Clase\obj\Debug\net10.0\Clases, Clases Abstractas e Interfaces.csproj.CoreCompileInputs.cache
+c:\Users\roble\OneDrive\Desktop\SOLID\Actividad Eduardo\Clase\obj\Debug\net10.0\Clases, Clases Abstractas e Interfaces.sourcelink.json
+c:\Users\roble\OneDrive\Desktop\SOLID\Actividad Eduardo\Clase\obj\Debug\net10.0\Clases, Clases Abstractas e Interfaces.dll
+c:\Users\roble\OneDrive\Desktop\SOLID\Actividad Eduardo\Clase\obj\Debug\net10.0\refint\Clases, Clases Abstractas e Interfaces.dll
+c:\Users\roble\OneDrive\Desktop\SOLID\Actividad Eduardo\Clase\obj\Debug\net10.0\Clases, Clases Abstractas e Interfaces.pdb
+c:\Users\roble\OneDrive\Desktop\SOLID\Actividad Eduardo\Clase\obj\Debug\net10.0\Clases, Clases Abstractas e Interfaces.genruntimeconfig.cache
+c:\Users\roble\OneDrive\Desktop\SOLID\Actividad Eduardo\Clase\obj\Debug\net10.0\ref\Clases, Clases Abstractas e Interfaces.dll
