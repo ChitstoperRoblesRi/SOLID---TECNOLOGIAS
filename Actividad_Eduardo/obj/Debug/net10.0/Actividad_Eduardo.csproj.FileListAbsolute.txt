@@ -1,0 +1,15 @@
+C:\Users\roble\OneDrive\Desktop\SOLID\Actividad_Eduardo\bin\Debug\net10.0\Actividad_Eduardo.exe
+C:\Users\roble\OneDrive\Desktop\SOLID\Actividad_Eduardo\bin\Debug\net10.0\Actividad_Eduardo.deps.json
+C:\Users\roble\OneDrive\Desktop\SOLID\Actividad_Eduardo\bin\Debug\net10.0\Actividad_Eduardo.runtimeconfig.json
+C:\Users\roble\OneDrive\Desktop\SOLID\Actividad_Eduardo\bin\Debug\net10.0\Actividad_Eduardo.dll
+C:\Users\roble\OneDrive\Desktop\SOLID\Actividad_Eduardo\bin\Debug\net10.0\Actividad_Eduardo.pdb
+C:\Users\roble\OneDrive\Desktop\SOLID\Actividad_Eduardo\obj\Debug\net10.0\Actividad_Eduardo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roble\OneDrive\Desktop\SOLID\Actividad_Eduardo\obj\Debug\net10.0\Actividad_Eduardo.AssemblyInfoInputs.cache
+C:\Users\roble\OneDrive\Desktop\SOLID\Actividad_Eduardo\obj\Debug\net10.0\Actividad_Eduardo.AssemblyInfo.cs
+C:\Users\roble\OneDrive\Desktop\SOLID\Actividad_Eduardo\obj\Debug\net10.0\Actividad_Eduardo.csproj.CoreCompileInputs.cache
+C:\Users\roble\OneDrive\Desktop\SOLID\Actividad_Eduardo\obj\Debug\net10.0\Actividad_Eduardo.sourcelink.json
+C:\Users\roble\OneDrive\Desktop\SOLID\Actividad_Eduardo\obj\Debug\net10.0\Actividad_Eduardo.dll
+C:\Users\roble\OneDrive\Desktop\SOLID\Actividad_Eduardo\obj\Debug\net10.0\refint\Actividad_Eduardo.dll
+C:\Users\roble\OneDrive\Desktop\SOLID\Actividad_Eduardo\obj\Debug\net10.0\Actividad_Eduardo.pdb
+C:\Users\roble\OneDrive\Desktop\SOLID\Actividad_Eduardo\obj\Debug\net10.0\Actividad_Eduardo.genruntimeconfig.cache
+C:\Users\roble\OneDrive\Desktop\SOLID\Actividad_Eduardo\obj\Debug\net10.0\ref\Actividad_Eduardo.dll
