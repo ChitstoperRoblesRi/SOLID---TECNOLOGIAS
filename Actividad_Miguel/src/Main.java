@@ -1,5 +1,4 @@
-public class Main {
-    public static void main(String[] args) {
+public class Main {    public static void main(String[] args) {
         Piston miPiston = new Piston();
         Puerta miPuerta = new Puerta();
         Lampara miLampara = new Lampara();
