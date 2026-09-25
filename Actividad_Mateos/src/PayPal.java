@@ -1,4 +1,3 @@
-package Actividad_Mateos.src;
 public class PayPal implements MetodoPago{
     private String correo;
 

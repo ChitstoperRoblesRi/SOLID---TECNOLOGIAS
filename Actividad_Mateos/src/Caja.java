@@ -1,4 +1,3 @@
-package Actividad_Mateos.src;
 public class Caja {
     public void cobrar(MetodoPago metodo, double monto){
         if(metodo.validar()){

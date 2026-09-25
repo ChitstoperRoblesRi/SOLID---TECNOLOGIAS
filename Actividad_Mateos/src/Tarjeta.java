@@ -1,4 +1,3 @@
-package Actividad_Mateos.src;
 public class Tarjeta implements MetodoPago{
     public String numero;
 

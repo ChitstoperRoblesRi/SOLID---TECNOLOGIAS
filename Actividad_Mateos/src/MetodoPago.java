@@ -1,4 +1,3 @@
-package Actividad_Mateos.src;
 public interface MetodoPago {
     boolean validar();
 

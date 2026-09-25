@@ -1,4 +1,3 @@
-package Actividad_Mateos.src;
 public class Contado implements MetodoPago{
     private boolean estadoBilletes;
 
