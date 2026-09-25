@@ -1,3 +1,4 @@
+package Actividad_Mateos.SRP;
 public class Tarjeta implements MetodoPago{
     public String numero;
 

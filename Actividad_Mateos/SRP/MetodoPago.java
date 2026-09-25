@@ -1,3 +1,4 @@
+package Actividad_Mateos.SRP;
 public interface MetodoPago {
     boolean validar();
 
